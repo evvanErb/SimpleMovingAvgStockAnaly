@@ -23,3 +23,5 @@ Dependecies: Python 2.7, numpy, pandas, matplotlib
 For best results run program from terminal (python MovingAvg.py)
 
 Make sure stockData.csv is in same directory as MovingAvg.py
+
+README contains example files for stockData.csv and stockAnalyzed.csv
