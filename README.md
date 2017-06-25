@@ -25,3 +25,7 @@ For best results run program from terminal (python MovingAvg.py)
 Make sure stockData.csv is in same directory as MovingAvg.py
 
 README contains example files for stockData.csv and stockAnalyzed.csv
+
+INSTALLATION
+
+To install run: sudo pip install -r install.txt
