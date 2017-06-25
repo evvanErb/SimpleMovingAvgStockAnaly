@@ -18,7 +18,8 @@ But make sure that in the second line commas are only outside double quotes and 
 
 Takes data from file named stockData.csv and writes data to stockAnalyzed.csv
 
-Dependecies: Python 2.7, numpy, pandas, matplotlib
+Dependencies: Python 2.7 and pip
+Dependencies installed in install.txt: numpy, pandas, matplotlib
 
 For best results run program from terminal (python MovingAvg.py)
 
