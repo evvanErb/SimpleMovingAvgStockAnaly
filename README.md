@@ -21,4 +21,5 @@ Takes data from file named stockData.csv and writes data to stockAnalyzed.csv
 Dependecies: Python 2.7, numpy, pandas, matplotlib
 
 For best results run program from terminal (python MovingAvg.py)
-Make sure stockData.csv 
+
+Make sure stockData.csv is in same directory as MovingAvg.py
